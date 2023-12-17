@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Naveen</h1>
 <h3 align="center">A backend developer on a journey to become full stack dev</h3>
