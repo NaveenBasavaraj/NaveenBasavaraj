@@ -39,7 +39,7 @@ I thrive on building things from scratch, learning fast, and turning ideas into 
 ### 📌 Featured Projects
 <p align="center">
   <a href="https://github.com/NaveenBasavaraj/movies_django_rest_fw">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NaveenBasavaraj&repo=movies_django_rest_fw&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NaveenBasavaraj&repo=AI-Chat-App&theme=radical" />
   </a>
   <a href="https://github.com/NaveenBasavaraj/CodeTrek">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=NaveenBasavaraj&repo=CodeTrek&theme=radical" />
